@@ -1,4 +1,4 @@
-##pwned
+## pwned
 
 
 Program to check if your password has been pwned, instead of typing your password at https://haveibeenpwned.com, like if you are so paranoid about typing it on the website.
